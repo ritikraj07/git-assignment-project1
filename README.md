@@ -4,3 +4,5 @@ This is a sample project for learning Git workflows.
 ## Features
 - Version control
 - Branch management
+
+Main branch modification
