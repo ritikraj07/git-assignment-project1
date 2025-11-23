@@ -5,4 +5,4 @@ This is a sample project for learning Git workflows.
 - Version control
 - Branch management
 
-Main branch modification
+Conflict branch modification
