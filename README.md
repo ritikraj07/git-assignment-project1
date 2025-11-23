@@ -11,3 +11,4 @@ Resolved merge modification
 This project is now connected to GitHub.
 
 ## Task 7 Section
+## Amendment Example
