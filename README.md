@@ -3,6 +3,6 @@ This is a sample project for learning Git workflows.
 
 ## Features
 - Version control
-- Branch management
+- Branch management - Conflict version
 
 Conflict branch modification
