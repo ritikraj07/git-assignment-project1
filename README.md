@@ -9,3 +9,5 @@ Resolved merge modification
 
 ## Remote Repository Setup
 This project is now connected to GitHub.
+
+## Task 7 Section
