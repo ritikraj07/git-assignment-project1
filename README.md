@@ -6,3 +6,6 @@ This is a sample project for learning Git workflows.
 - Branch management - Combined version (Main + Conflict)
 
 Resolved merge modification
+
+## Remote Repository Setup
+This project is now connected to GitHub.
